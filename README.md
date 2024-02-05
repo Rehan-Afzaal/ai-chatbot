@@ -1,5 +1,5 @@
-
-# PDF Chatbot Application
+![6VCG1R_jwY](https://github.com/Rehan-Afzaal/ai-chatbot/assets/42688016/f931d24e-dda4-4caa-9b09-513e108f8b9c)
+# AI-Chatbot Application
 
 ## Description
 This application allows users to upload PDF documents, extracts text from them, and provides a conversational interface where users can ask questions about the document's content. It uses OCR for text extraction, MongoDB for data storage, and an AI-powered chatbot for answering queries.
@@ -10,6 +10,9 @@ This application allows users to upload PDF documents, extracts text from them, 
 - **Text Chunking**: Processes extracted text into manageable chunks.
 - **Question Answering**: Users can ask questions about the document, answered by an AI chatbot.
 - **Database Storage**: Uses MongoDB to store document data and chat history.
+  
+## Flowchart diagram
+![6VCG1R_jwY](https://github.com/Rehan-Afzaal/ai-chatbot/assets/42688016/3adedd03-52d7-4f13-84ed-250a970729a6)
 
 ## How to Run
 1. Set environment variables for MongoDB and OpenAI API key.
