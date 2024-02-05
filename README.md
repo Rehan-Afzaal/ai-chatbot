@@ -1,4 +1,3 @@
-![6VCG1R_jwY](https://github.com/Rehan-Afzaal/ai-chatbot/assets/42688016/f931d24e-dda4-4caa-9b09-513e108f8b9c)
 # AI-Chatbot Application
 
 ## Description
